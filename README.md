@@ -29,7 +29,7 @@ A mobile-responsive ammunition inventory web application with barcode scanning c
 
 1. Clone this repository
    ```
-   git clone https://github.com/yourname/rubyridge-ammo-inventory.git
+   git clone https://github.com/lance0/rubyridge-ammo-inventory.git
    cd rubyridge-ammo-inventory
    ```
 
@@ -68,7 +68,7 @@ A mobile-responsive ammunition inventory web application with barcode scanning c
 
 1. Clone this repository
    ```
-   git clone https://github.com/yourname/rubyridge-ammo-inventory.git
+   git clone https://github.com/lance0/rubyridge-ammo-inventory.git
    cd rubyridge-ammo-inventory
    ```
 
